@@ -1,0 +1,2 @@
+recursive-include tutor_ptierra_private_packages/patches *
+recursive-include tutor_ptierra_private_packages/templates *
